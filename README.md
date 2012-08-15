@@ -1,7 +1,7 @@
 CS251
 =====
 
-This repository is being created for the CS251 lab assignment. We have to use any version control system (for which we are using git) to develop aur project.
+This repository is being created for the CS251 lab assignment. We have to use any version control system (for which we are using <b>git</b>) to develop aur project.
 Team Members:
 1) Aniruddha Zalani<br>
 2) Bhavishya Mittal<br>
@@ -11,3 +11,4 @@ Team Members:
 6) Rohun Tripati<br>
 7) Soniya Barmate<br>
 8) Y Kushal<br>
+<hr>
